@@ -11,13 +11,12 @@ addressed explicitly (see [Evaluation criteria map](#evaluation-criteria-map)).
 
 | Doc | Read it when you want to… |
 |---|---|
-| [`video/deliverables/`](video/deliverables/) | **watch the required demo video** (`demo.mp4`, 3 min, subtitled) + video `thumbnail.png` |
+| [`https://drive.google.com/drive/folders/1eHPQ73AeQxij8rl1-L-TeYazgzhMOr75?usp=sharing`](https://drive.google.com/drive/folders/1eHPQ73AeQxij8rl1-L-TeYazgzhMOr75?usp=sharing) | **watch the required demo video** (`demo.mp4`, 3 min, subtitled) + video `thumbnail.png` |
 | [`docs/USER_GUIDE.md`](docs/USER_GUIDE.md) | run the dashboard, walk the workflow, or film the demo video (script included) |
 | [`docs/COMPLIANCE.md`](docs/COMPLIANCE.md) | check every brief requirement against implementation + evidence |
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | understand each module, the state machine, and every design decision |
 | [`docs/LIMITATIONS.md`](docs/LIMITATIONS.md) | see exactly what is real / simulated / manual — and why |
 | [`docs/CONFIGURATION.md`](docs/CONFIGURATION.md) | plug in real drivers/LLM, deploy the webhook, schedule the cron |
-| [`video/README.md`](video/README.md) | see exactly how the demo video was produced (AI-driven, reproducible) |
 
 ---
 
