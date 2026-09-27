@@ -1,0 +1,45 @@
+{
+  "event": {
+    "name": "Agentic AI Build Week",
+    "dates": "Nov 10-14, 2026",
+    "format": "5-day hybrid hackathon (Singapore hub + online)",
+    "audience": "300+ AI engineers, students, and startup builders",
+    "organizer": "GenAI Fund",
+    "contact_email": "partnerships@genaifund.example",
+    "scheduling_link": "https://cal.com/genai-fund/hackathon-sponsor"
+  },
+  "packages": [
+    {
+      "tier": "Titanium",
+      "amount_sgd": 25000,
+      "perks": ["Keynote slot", "Named hackathon track", "Judge seat", "Prime booth", "Logo on all assets", "Talent-pipeline intros to top teams"]
+    },
+    {
+      "tier": "Gold",
+      "amount_sgd": 10000,
+      "perks": ["Workshop slot", "Booth", "Logo on assets", "Mentions in socials"]
+    },
+    {
+      "tier": "Community",
+      "amount_sgd": 2000,
+      "perks": ["API credits recognized on-screen", "Logo on website", "Social mentions"]
+    }
+  ],
+  "in_kind_options": [
+    "Cloud/API credits (LLM, GPU, inference)",
+    "Mentor hours from senior engineers",
+    "Prize sponsorship for a themed track",
+    "Venue or streaming support"
+  ],
+  "audience_stats": {
+    "expected_participants": 300,
+    "track_record": "Prior GenAI Fund events drew 250+ builders and produced 12 funded-dataset pilot projects",
+    "media_reach": "40k+ cumulative impressions across prior event campaigns"
+  },
+  "faqs": [
+    {"q": "What does sponsorship cost?", "a": "Titanium SGD 25k, Gold SGD 10k, Community SGD 2k, plus in-kind options (credits, mentors, prizes). Full deck available on a call."},
+    {"q": "When is the event?", "a": "Nov 10-14, 2026 — a 5-day hybrid hackathon with a Singapore hub and online tracks."},
+    {"q": "Who attends?", "a": "300+ AI engineers, students, and startup builders; ideal for developer-tool and cloud teams hiring or seeding adoption."},
+    {"q": "Can we customize a package?", "a": "Yes — most partners mix cash tiers with in-kind contributions like API credits or a named prize track."}
+  ]
+}

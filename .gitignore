@@ -1,0 +1,54 @@
+# ============================================================
+# AI-agent / AI-tool workspace folders — MUST NEVER be committed
+# or included in any submission
+# ============================================================
+.freebuff/
+.claude/
+.cursor/
+.copilot/
+.aider*
+.continue/
+.windsurf/
+.codeium/
+.gemini/
+.github-copilot/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---- Virtualenvs ----
+.venv/
+venv/
+env/
+
+# ---- IDE ----
+.idea/
+.vscode/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Secrets ----
+.env
+
+# ---- Local data (demo DB is machine-specific) ----
+data/*.db
+*.sqlite
+*.sqlite3
+
+# ---- Logs ----
+*.log
+*.log.*
+
+# ---- Video / media build artifacts (not part of the code submission) ----
+*.webm
+*.mp4
+*.mp3
+*.wav
+*.ass

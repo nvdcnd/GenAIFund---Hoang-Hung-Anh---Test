@@ -1,0 +1,12 @@
+# Normalize all text files to LF in the repo and on checkout (any OS).
+* text=auto eol=lf
+
+# Windows-specific scripts keep CRLF (cmd.exe batch files require it).
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary assets — never normalize.
+*.db binary
+*.png binary
+*.jpg binary
+*.ico binary
